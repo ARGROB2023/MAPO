@@ -4,8 +4,8 @@
 
 <p align="center">
 <a href="https://arxiv.org/abs/2509.18849"><img src="https://img.shields.io/badge/arXiv-2509.18849-b31b1b.svg" alt="arXiv Badge"></a>
-<a href="https://huggingface.co/collections/WilliamHuang91/mapo-mixed-advantage-policy-optimization-68cb60c563222febca0e6e90">
-<img src="https://img.shields.io/badge/🤗%20HuggingFace-Collection-blue">
+<a href="https://huggingface.co/papers/2509.18849">
+  <img src="https://img.shields.io/badge/🤗%20HuggingFace-Paper-blue">
 </a>
 <a href="https://github.com/WenkeHuang/MAPO"><img src="https://img.shields.io/github/stars/WenkeHuang/MAPO?style=social" alt="GitHub stars">
 </a>
